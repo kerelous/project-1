@@ -1,5 +1,5 @@
 ---
-Routerid : 192.168.2.2
+Routerid : 192.168.2.5
 area: 1
-network : 192.168.2.1
+network : 192.168.2.4
 mask : 255.255.255.0
