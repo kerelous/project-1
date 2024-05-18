@@ -42,7 +42,7 @@ import paramiko
 import time
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect(hostname='192.168.2.2',port=22,username='admin',password='admin@123')
+ssh.connect(hostname='192.168.3.5',port=22,username='admin',password='nti@123')
 cli = ssh.invoke_shell()
 cli.send('en \n')
 cli.send('show ip interface brief \n')
