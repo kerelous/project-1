@@ -1,4 +1,4 @@
 ---
-As : 200
-neighbor : 192.168.2.4
-neighboras : 400
+As : 300
+neighbor : 192.168.2.7
+neighboras : 500
